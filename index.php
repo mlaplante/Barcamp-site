@@ -66,7 +66,7 @@
 			<div class="intro-line"></div>
             
             
-			<p class="tagline">A day by geeks, for geeks and about geeks on September 28th, 2013.</p>
+			<p class="tagline">A day by geeks, for geeks and about geeks on September 28th, 2013. TESTING</p>
             
             <div class="social-intro">
 			<ul>
@@ -349,7 +349,7 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 	
 	<div class="one-third column">
 						<!-- begin example gallery -->
-					  <a href="http://www.pilgrimsoftware.com/" target="_blank"><img src="images/2013_logos/pilgrim_logo.eps" class="scale-with-grid" alt="" /></a>
+					  <a href="http://www.pilgrimsoftware.com/" target="_blank"><img src="images/2013_logos/pilgrim_logo.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
@@ -361,7 +361,7 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.sourcetoad.com/" target="_blank"><img src="source-toad-01.png" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.sourcetoad.com/" target="_blank"><img src="images/2013_logos/source-toad-01.png" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 					
@@ -370,13 +370,13 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 	
 	<div class="one-third column">
 						<!-- begin example gallery -->
-					  <a href="http://startupgrind.com/" target="_blank"><img src="Startup Grind logo.png" class="scale-with-grid" alt="" /></a>
+					  <a href="http://startupgrind.com/" target="_blank"><img src="images/2013_logos/Startup Grind logo.png" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="https://tampa.tie.org/" target="_blank"><img src="images/2013_logos/Tampabay-final-logo.eps" class="scale-with-grid" alt="" /></a>
+				  <a href="https://tampa.tie.org/" target="_blank"><img src="images/2013_logos/Tampabay-final-logo.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
