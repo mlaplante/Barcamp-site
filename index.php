@@ -195,8 +195,8 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 
 <!-- end 3 columns -->
 
-<p>
-	Would you like to volunteer for part of the day? It’s a great way to get to know more of the people in the tech community. If so, <a href="https://barcamptampa.launchtrack.com/register/volunteers">register here</a>.
+<p style="font-size: 18px;">
+	Would you like to volunteer for part of the day? It’s a great way to get to know more of the people in the tech community. If so, <a href="https://barcamptampa.launchtrack.com/register/volunteers" style="color: #0a97f9;">register here</a>.
 </p>
 
 <div class="clear"></div>
@@ -232,19 +232,19 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
     
     <div class="one-third column">
 					<!-- begin example gallery -->
-					<a href="http://www.usf.edu/" target="_blank"><img src="images/2013_logos/usf_business" class="scale-with-grid" alt="USF College of Business" /></a>
+					<a href="http://www.usf.edu/" target="_blank"><img src="images/2013_logos/USF College of Business Logo web.jpg" class="scale-with-grid" alt="USF College of Business" /></a>
 				
 				</div> <!-- end one-third column -->
 			
 			<div class="one-third column">
 					<!-- begin example gallery -->
-					<a href="http://www.usf.edu/" target="_blank"><img src="images/2013_logos/usf.png" class="scale-with-grid" alt="USF" /></a>
+					<a href="http://www.hillsboroughcounty.org/" target="_blank"><img src="images/2013_logos/Hillsborough County Logo web.jpg" class="scale-with-grid" alt="" /></a>
 				
 				</div> <!-- end one-third column -->
 			
 			<div class="one-third column">
 					<!-- begin example gallery -->
-					<a href="http://www.forexfactory.com/" target="_blank"><img src="images/2013_logos/ff_logo_flat_green.png" class="scale-with-grid" alt="USF" /></a>
+					<a href="http://www.forexfactory.com/" target="_blank"><img src="images/2013_logos/ff_logo_flat_green.png" class="scale-with-grid" alt="Forex" /></a>
 				
 				</div> <!-- end one-third column -->
 
@@ -265,162 +265,123 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 				
 					<div class="one-third column">
 						<!-- begin example gallery -->
-					  <a href="http://appliedg2.com/" target="_blank"><img src="images/2013_logos/Applied G2 Logo Horizontal.png" class="scale-with-grid" alt="" /></a>
+					  <a href="http://appliedg2.com/" target="_blank"><img src="images/2013_logos/applied G2 logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="#" target="_blank"><img src="images/2013_logos/boost-logo.png" class="scale-with-grid" alt="" /></a>
+				  <a href="#" target="_blank"><img src="images/2013_logos/Boost logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.hanekedesign.com/" target="_blank"><img src="images/2013_logos/Haneke-logo-web.png" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.hanekedesign.com/" target="_blank"><img src="images/2013_logos/Haneke Logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
+		</div>
 					
 	<br class="clear" />
 	<br class="clear" />
+	
+	<div class="portfolio">
 	
 	<div class="one-third column">
 						<!-- begin example gallery -->
-					  <a href="http://www.hillsboroughcounty.org/" target="_blank"><img src="images/2013_logos/Hillsborough County Logo.jpg" class="scale-with-grid" alt="" /></a>
+					  
 					
+					<a href="http://www.adobe.com/" target="_blank"><img src="images/2013_logos/Adobe web.jpg" class="scale-with-grid" alt="" /></a>
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.mercurynewmedia.com/" target="_blank"><img src="images/2013_logos/l02.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.mercurynewmedia.com/" target="_blank"><img src="images/2013_logos/Mercury New Media.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.marbaygroup.com/" target="_blank"><img src="images/2013_logos/l05.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://bigseadesign.com/" target="_blank"><img src="images/2013_logos/Big Sea.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
+		</div>
 					
 	<br class="clear" />
 	<br class="clear" />
+	
+	<div class="portfolio">
 	
 	<div class="one-third column">
 						<!-- begin example gallery -->
-					  <a href="http://www.valpak.com/coupons/home" target="_blank"><img src="images/2013_logos/l09.jpg" class="scale-with-grid" alt="" /></a>
+					  <a href="http://www.valpak.com/coupons/home" target="_blank"><img src="images/2013_logos/Valpak web.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://oreilly.com/" target="_blank"><img src="images/2013_logos/l013.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://launchtrack.com/index.php" target="_blank"><img src="images/2013_logos/launchtrack logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.agilethought.com/" target="_blank"><img src="images/2013_logos/l014.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://m-ize.com/" target="_blank"><img src="images/2013_logos/m-ize Logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
+		</div>
 					
 	<br class="clear" />
 	<br class="clear" />
+	
+	<div class="portfolio">
 	
 	<div class="one-third column">
 						<!-- begin example gallery -->
-					  <a href="http://www.mymatrixx.com/" target="_blank"><img src="images/2013_logos/l016.jpg" class="scale-with-grid" alt="" /></a>
+					  <a href="https://nerdtag.me/" target="_blank"><img src="images/2013_logos/nerdtag me logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://launchtrack.com/index.php" target="_blank"><img src="images/2013_logos/launchtrack-logo.png" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.pilgrimsoftware.com/" target="_blank"><img src="images/2013_logos/Pilgrim Software Logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.prospectsmarter.com/" target="_blank"><img src="images/2013_logos/NewPSILogo_HiRes-new-green.png" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.prospectsmarter.com/" target="_blank"><img src="images/2013_logos/prosprect smarter web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
+		</div>
 					
 	<br class="clear" />
 	<br class="clear" />
-	
-	<div class="one-third column">
-						<!-- begin example gallery -->
-					  <a href="http://www.pilgrimsoftware.com/" target="_blank"><img src="images/2013_logos/pilgrim_logo.jpg" class="scale-with-grid" alt="" /></a>
-					
-					</div> <!-- end one-third column -->
-				
-				<div class="one-third column">
-						<!-- begin example gallery -->
-				  <a href="http://rad-info.net/" target="_blank"><img src="images/2013_logos/rad.jpg" class="scale-with-grid" alt="" /></a>
-					
-		</div> <!-- end one-third column -->
-				
-				<div class="one-third column">
-						<!-- begin example gallery -->
-				  <a href="http://www.sourcetoad.com/" target="_blank"><img src="images/2013_logos/source-toad-01.png" class="scale-with-grid" alt="" /></a>
-					
-		</div> <!-- end one-third column -->
-					
-	<br class="clear" />
-	<br class="clear" />
-	
-	<div class="one-third column">
-						<!-- begin example gallery -->
-					  <a href="http://startupgrind.com/" target="_blank"><img src="images/2013_logos/Startup Grind logo.png" class="scale-with-grid" alt="" /></a>
-					
-					</div> <!-- end one-third column -->
-				
-				<div class="one-third column">
-						<!-- begin example gallery -->
-				  <a href="https://tampa.tie.org/" target="_blank"><img src="images/2013_logos/Tampabay-final-logo.jpg" class="scale-with-grid" alt="" /></a>
-					
-		</div> <!-- end one-third column -->
-				
-				<div class="one-third column">
-						<!-- begin example gallery -->
-				  <!--<a href="http://www.sourcetoad.com/" target="_blank"><img src="source-toad-01.png" class="scale-with-grid" alt="" /></a>-->&nbsp;
-					
-		</div> <!-- end one-third column -->
-					
-	<br class="clear" />
-	<br class="clear" />		
-					
-		</div> <!-- end portfolio -->
-	
-	
-		<div class="sixteen columns">
-					<h2 class="white"><span class="lines">OTHER Supporters</span></h2>
-				</div> <!-- end sixteen columns -->
-				
-				<div class="clear"></div>
 	
 	
 	<div class="portfolio">
-				
-					<div class="one-third column">
-						<!-- begin example gallery -->
-<!--						<a href="http://www.clarityservices.com/" target="_blank"><img src="images/logos03/l01.jpg" class="scale-with-grid" alt="" /></a>-->
+	
+	<div class="one-third column">
+						
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-<!--						<a href="http://www.mercurynewmedia.com/" target="_blank"><img src="images/logos03/l02.jpg" class="scale-with-grid" alt="" /></a>-->
+				  <a href="http://startupgrind.com/" target="_blank"><img src="images/2013_logos/Startup Grind Logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
-					</div> <!-- end one-third column -->
+		</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-<!--						<a href="http://www.raymondjames.com/"><img src="images/logos03/l03.jpg" class="scale-with-grid" alt="" /></a>-->
+				  <a href="http://www.sourcetoad.com/" target="_blank"><img src="images/2013_logos/Source Toad Logo Web.jpg" class="scale-with-grid" alt="" /></a>
 					
-					</div> <!-- end one-third column -->
+		</div> <!-- end one-third column -->
 					
 	<br class="clear" />
-	<br class="clear" />	
+	<br class="clear" />
+	
+	</div>
 	
 		<div class="sixteen columns">
 					<h2 class="white"><span class="lines">The Community Contributors</span></h2>
@@ -433,24 +394,94 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 				
 					<div class="one-third column">
 						<!-- begin example gallery -->
-						<!--<a href="http://www.83degreesmedia.com/" target="_blank"><img src="images/logos04/l01.jpg" class="scale-with-grid" alt="" /></a>-->
+						<a href="http://www.marbaygroup.com/" target="_blank"><img src="images/2013_logos/Marbay.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-						<!--<a href="http://www.code-magazine.com/" target="_blank"><img src="images/logos04/l02.jpg" class="scale-with-grid" alt="" /></a>-->
+						<a href="http://oreilly.com/" target="_blank"><img src="images/2013_logos/O' Reilly.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 		    <div class="one-third column">
 						<!-- begin example gallery -->
-						<!--<a href="http://www.manning.com/" target="_blank"><img src="images/logos04/l04.jpg" class="scale-with-grid" alt="" /></a>-->
+						<a href="http://rad-info.net/" target="_blank"><img src="images/2013_logos/Rad Info.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 					
 	<br class="clear" />
 	<br class="clear" />
+	
+	<div class="portfolio">
+				
+					<div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="https://tampa.tie.org/" target="_blank"><img src="images/2013_logos/TiE Tampa Bay.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://www.83degreesmedia.com/" target="_blank"><img src="images/2013_logos/83 Degrees.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+		    <div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://cltampa.com/" target="_blank"><img src="images/2013_logos/Creative Loafing.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+					
+	<br class="clear" />
+	<br class="clear" />
+	
+	<div class="portfolio">
+				
+					<div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="https://getexmo.com/" target="_blank"><img src="images/2013_logos/Exmo.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://www.microsoft.com/" target="_blank"><img src="images/2013_logos/Microsoft web.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+		    <div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://www.rfbcommunications.com/" target="_blank"><img src="images/2013_logos/RFB Communications.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+					
+	<br class="clear" />
+	<br class="clear" />
+	
+	<div class="portfolio">
+				
+					<div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://www.bizjournals.com/tampabay/" target="_blank"><img src="images/2013_logos/TBBJ Logo Web.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://vancearnettcoaching.com/" target="_blank"><img src="images/2013_logos/Vance Arnett Logo.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+		    <div class="one-third column">
+						<!-- begin example gallery -->
+						<a href="http://yeti-media.com/" target="_blank"><img src="images/2013_logos/Yeti.jpg" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+					
+	<br class="clear" />
+	<br class="clear" />
+	
 	    
 		
 	
