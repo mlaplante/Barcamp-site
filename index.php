@@ -195,7 +195,7 @@ Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest 
 <div class="clear"></div>
 <h2><span class="lines">Speakers at a BarCamp</span></h2>
 
-<p>“If you have never been to a BarCamp unconference what kind of sessions and speakers can you expect? 
+<p>If you have never been to a BarCamp unconference what kind of sessions and speakers can you expect? 
 This is a day of learning for our attendees who represent all coding languages and supporting technologies in the Tampa Bay and surrounding areas. We expect some very exciting sessions planned for and by our developer community with related topics such as Google Glass, User Experience (UX), design, startups and many more. This year we will also have teams from the First Robotics kids group working and demonstrating their robots for the day. We have a number of videos of sessions posted on our YouTube channel. This video is a compilation of BarCamp topics and can be found <a href="http://www.youtube.com/watch?v=RoZgJ0wYMsE" target="_blank" style="color: #0a97f9;">here.</a></p>
 <p>If you have a topic you want to share with the tech community, BarCamps by tradition do their sign ups the morning of the event on a first-come, first-served basis. Registration starts at 7:30am and sessions begin at 9:00am. Sessions last 50 minutes and we recommend that you plan for about 20 to 25 minutes for your presentation followed by an interactive question and answer session. If you would like to learn more about how to do a BarCamp session, you can check <a href="http://blog.coryfoy.com/2010/09/how-to-10-tips-on-presenting-at-conferences/ " target="_blank" style="color: #0a97f9;">here</a> or <a href="http://sandiego.metblogs.com/2009/04/28/what-do-you-talk-about-at-barcamp/ " target="_blank" style="color: #0a97f9;">here</a>.
 </p>
@@ -203,7 +203,7 @@ This is a day of learning for our attendees who represent all coding languages a
 
 
 <!-- end 3 columns -->
-
+<h2><span class="lines">Volunteer at a BarCamp</span></h2>
 <p style="font-size: 18px;">
 	Would you like to volunteer for part of the day? It’s a great way to get to know more of the people in the tech community. If so, <a href="https://barcamptampa.launchtrack.com/register/volunteers" style="color: #0a97f9;">register here</a>.
 </p>
