@@ -371,7 +371,7 @@ This is a day of learning for our attendees who represent all coding languages a
 	<div class="portfolio">
 	
 	<div class="one-third column">
-						<a href="http://www.in10did.com/" target="_blank"><img src="images/2013_logos/1in10did.png" class="scale-with-grid" alt="" /></a>
+						<a href="http://www.in10did.com/" target="_blank"><img src="images/2013_logos/1in10did.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
@@ -395,19 +395,19 @@ This is a day of learning for our attendees who represent all coding languages a
 	<div class="portfolio">
 	
 	<div class="one-third column">
-						<a href="http://firstinflorida.com/" target="_blank"><img src="images/2013_logos/FIRST Logo.png" class="scale-with-grid" alt="" /></a>
+						<a href="http://firstinflorida.com/" target="_blank"><img src="images/2013_logos/FIRST web logo.jpg" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://seoslides.com/" target="_blank"><img src="images/2013_logos/SEO Slides Logo Web.png" class="scale-with-grid" alt="" /></a>
+				  <a href="http://seoslides.com/" target="_blank"><img src="images/2013_logos/SEO Slides Web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://tampahackerspace.com/" target="_blank"><img src="images/2013_logos/Tampa Hackerspace.png" class="scale-with-grid" alt="" /></a>
+				  <a href="http://tampahackerspace.com/" target="_blank"><img src="images/2013_logos/Tampa Hackerspace web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 					
@@ -551,6 +551,30 @@ This is a day of learning for our attendees who represent all coding languages a
 					<div class="one-third column">
 							<!-- begin example gallery -->
 							<a href="http://www.tbic.us/" target="_blank"><img src="images/2013_logos/TB Inventors.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+			    <div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.intentiontechnology.com/" target="_blank"><img src="images/2013_logos/Intention logo for web.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+						
+		<br class="clear" />
+		<br class="clear" />
+		</div> <!-- end portfolio -->
+
+		<div class="portfolio">
+					
+						<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.maderalabs.com/" target="_blank"><img src="images/2013_logos/Madera Labs web logo.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+					<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://tampabaybusinessowners.org/" target="_blank"><img src="images/2013_logos/TBBO Logo web.png" class="scale-with-grid" alt="" /></a>
 						
 						</div> <!-- end one-third column -->
 					
