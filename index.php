@@ -371,7 +371,7 @@ This is a day of learning for our attendees who represent all coding languages a
 	<div class="portfolio">
 	
 	<div class="one-third column">
-						
+						<a href="#" target="_blank"><img src="images/2013_logos/1in10did.png" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
@@ -384,6 +384,30 @@ This is a day of learning for our attendees who represent all coding languages a
 				<div class="one-third column">
 						<!-- begin example gallery -->
 				  <a href="http://www.sourcetoad.com/" target="_blank"><img src="images/2013_logos/Source Toad Logo Web.jpg" class="scale-with-grid" alt="" /></a>
+					
+		</div> <!-- end one-third column -->
+					
+	<br class="clear" />
+	<br class="clear" />
+	
+	</div>
+	
+	<div class="portfolio">
+	
+	<div class="one-third column">
+						<a href="#" target="_blank"><img src="images/2013_logos/FIRST Logo.png" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+				  <a href="http://seoslides.com/" target="_blank"><img src="images/2013_logos/SEO Slides Logo Web.png" class="scale-with-grid" alt="" /></a>
+					
+		</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+				  <a href="http://tampahackerspace.com/" target="_blank"><img src="images/2013_logos/Tampa Hackerspace.png" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 					
@@ -490,17 +514,54 @@ This is a day of learning for our attendees who represent all coding languages a
 					
 	<br class="clear" />
 	<br class="clear" />
-	
-	    
+		</div> <!-- end portfolio -->
 		
-	
-	
-	<!-- END NEW COL ++++++++
-	++++++++++++++++++++++++++++++++++++-->
-	
-	    
-	    
+		<div class="portfolio">
 					
+						<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.352media.com/" target="_blank"><img src="images/2013_logos/352 Media.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+					<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.carvoyant.com/" target="_blank"><img src="images/2013_logos/Carvoyant logo.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+			    <div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://coworktampa.com/cowork/" target="_blank"><img src="images/2013_logos/CoWork Tampa.jpg" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+						
+		<br class="clear" />
+		<br class="clear" />
+		</div> <!-- end portfolio -->
+		
+		<div class="portfolio">
+					
+						<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.michaellaplante.com/" target="_blank"><img src="images/2013_logos/LaPLante Web Dev logo for web" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+					<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.tbic.us/" target="_blank"><img src="images/2013_logos/TB Inventors.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+			    <div class="one-third column">
+							<!-- begin example gallery -->
+							<!--<a href="http://coworktampa.com/cowork/" target="_blank"><img src="images/2013_logos/CoWork Tampa.jpg" class="scale-with-grid" alt="" /></a>-->
+						
+						</div> <!-- end one-third column -->
+						
+		<br class="clear" />
+		<br class="clear" />
 		</div> <!-- end portfolio -->
 	
 
