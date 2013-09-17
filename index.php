@@ -253,7 +253,7 @@ This is a day of learning for our attendees who represent all coding languages a
 			
 			<div class="one-third column">
 					<!-- begin example gallery -->
-					<a href="http://www.forexfactory.com/" target="_blank"><img src="images/2013_logos/ff_logo_flat_green.png" class="scale-with-grid" alt="Forex" /></a>
+					<a href="http://www.forexfactory.com/" target="_blank"><img src="images/2013_logos/Forex Factory web logo.png" class="scale-with-grid" alt="Forex" /></a>
 				
 				</div> <!-- end one-third column -->
 
@@ -280,7 +280,7 @@ This is a day of learning for our attendees who represent all coding languages a
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="#" target="_blank"><img src="images/2013_logos/Boost logo web.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.booststudio.com/" target="_blank"><img src="images/2013_logos/Boost logo web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
@@ -371,7 +371,7 @@ This is a day of learning for our attendees who represent all coding languages a
 	<div class="portfolio">
 	
 	<div class="one-third column">
-						<a href="#" target="_blank"><img src="images/2013_logos/1in10did.png" class="scale-with-grid" alt="" /></a>
+						<a href="http://www.in10did.com/" target="_blank"><img src="images/2013_logos/1in10did.png" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
@@ -395,7 +395,7 @@ This is a day of learning for our attendees who represent all coding languages a
 	<div class="portfolio">
 	
 	<div class="one-third column">
-						<a href="#" target="_blank"><img src="images/2013_logos/FIRST Logo.png" class="scale-with-grid" alt="" /></a>
+						<a href="http://firstinflorida.com/" target="_blank"><img src="images/2013_logos/FIRST Logo.png" class="scale-with-grid" alt="" /></a>
 					
 					</div> <!-- end one-third column -->
 				
