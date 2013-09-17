@@ -401,7 +401,7 @@ This is a day of learning for our attendees who represent all coding languages a
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://seoslides.com/" target="_blank"><img src="images/2013_logos/SEO Slides Web.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://seoslides.com/" target="_blank"><img src="images/2013_logos/SEO Slides web.jpg" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
