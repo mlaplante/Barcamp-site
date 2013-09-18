@@ -78,7 +78,7 @@
 					<li><a href="http://vimeo.com/groups/barcamptampa"><img src="images/icn-vimeo-intro.png" alt="" /></a></li>
                     
                     <li><a href="http://www.flickr.com/groups/1468726@N24/"><img src="images/icn-flickr-intro.png" alt="" /></a></li>
-					
+					<li><a href="https://plus.google.com/110626489042574293200" rel="publisher"><img src="images/icn-gplus-intro.png" alt="" /></a></li>
 				</ul>
 			</div>
             
