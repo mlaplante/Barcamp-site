@@ -580,6 +580,30 @@ This is a day of learning for our attendees who represent all coding languages a
 					
 			    <div class="one-third column">
 							<!-- begin example gallery -->
+							<a href="http://www.mosi.org/" target="_blank"><img src="images/2013_logos/MOSI.jpg" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+						
+		<br class="clear" />
+		<br class="clear" />
+		</div> <!-- end portfolio -->
+		
+		<div class="portfolio">
+					
+						<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://www.agilethought.com/" target="_blank"><img src="images/2013_logos/Agile Thought.jpg" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+					<div class="one-third column">
+							<!-- begin example gallery -->
+							<!--<a href="http://tampabaybusinessowners.org/" target="_blank"><img src="images/2013_logos/TBBO Logo web.png" class="scale-with-grid" alt="" /></a>-->
+						
+						</div> <!-- end one-third column -->
+					
+			    <div class="one-third column">
+							<!-- begin example gallery -->
 							<!--<a href="http://coworktampa.com/cowork/" target="_blank"><img src="images/2013_logos/CoWork Tampa.jpg" class="scale-with-grid" alt="" /></a>-->
 						
 						</div> <!-- end one-third column -->
