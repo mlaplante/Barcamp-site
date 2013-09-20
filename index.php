@@ -305,7 +305,7 @@ This is a day of learning for our attendees who represent all coding languages a
 				
 				<div class="one-third column">
 						<!-- begin example gallery -->
-				  <a href="http://www.mercurynewmedia.com/" target="_blank"><img src="images/2013_logos/Mercury New Media.jpg" class="scale-with-grid" alt="" /></a>
+				  <a href="http://www.mercurynewmedia.com/" target="_blank"><img src="images/2013_logos/mercury new media 3.png" class="scale-with-grid" alt="" /></a>
 					
 		</div> <!-- end one-third column -->
 				
