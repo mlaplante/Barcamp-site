@@ -141,8 +141,8 @@
             
 				<h2><span class="lines">About the Event</span></h2>
 
-<p><span class="blueprint">The event will be a BarCamp 7:30 am doors open and signups begin.</span><br /><br />
-Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest tech event and will be held on the campus at the University of South Florida College of Business. There will be more announcements in the coming weeks and we expect an even larger attendance than last year so, register early and sign up for our mailing list.
+<p><span class="blueprint">The event will be a BarCamp Tampa Bay. The doors open at 7:30 am and signups begin shortly thereafter.</span><br /><br />
+<!--Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest tech event and will be held on the campus at the University of South Florida College of Business. There will be more announcements in the coming weeks and we expect an even larger attendance than last year so, register early and sign up for our mailing list.-->
 
 	<div class="title">
 		<iframe width="560" height="315" src="//www.youtube.com/embed/lado2tQkMK0" frameborder="0" allowfullscreen></iframe>
