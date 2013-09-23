@@ -416,6 +416,30 @@ This is a day of learning for our attendees who represent all coding languages a
 	
 	</div>
 	
+	<div class="portfolio">
+	
+	<div class="one-third column">
+						<a href="http://tampa.startupweekend.org/" target="_blank"><img src="images/2013_logos/SW_Site_logo.png" class="scale-with-grid" alt="" /></a>
+					
+					</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+				  <!--<a href="http://seoslides.com/" target="_blank"><img src="images/2013_logos/SEO Slides web.jpg" class="scale-with-grid" alt="" /></a>-->
+					
+		</div> <!-- end one-third column -->
+				
+				<div class="one-third column">
+						<!-- begin example gallery -->
+				  <!--<a href="http://tampahackerspace.com/" target="_blank"><img src="images/2013_logos/Tampa Hackerspace web.jpg" class="scale-with-grid" alt="" /></a>-->
+					
+		</div> <!-- end one-third column -->
+					
+	<br class="clear" />
+	<br class="clear" />
+	
+	</div>
+	
 		<div class="sixteen columns">
 					<h2 class="white"><span class="lines">The Community Contributors</span></h2>
 				</div> <!-- end sixteen columns -->
