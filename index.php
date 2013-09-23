@@ -605,7 +605,7 @@ This is a day of learning for our attendees who represent all coding languages a
 					
 			    <div class="one-third column">
 							<!-- begin example gallery -->
-							<!--<a href="http://coworktampa.com/cowork/" target="_blank"><img src="images/2013_logos/CoWork Tampa.jpg" class="scale-with-grid" alt="" /></a>-->
+							<a href="http://balanceengines.com/" target="_blank"><img src="images/2013_logos/Balance Engines.png" class="scale-with-grid" alt="" /></a>
 						
 						</div> <!-- end one-third column -->
 						
