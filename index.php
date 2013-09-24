@@ -141,7 +141,7 @@
             
 				<h2><span class="lines">About the Event</span></h2>
 
-<p><span class="blueprint">The event will be a BarCamp Tampa Bay. The doors open at 7:30 am and signups begin shortly thereafter.</span><br /><br />
+<p><span class="blueprint">The event will be a BarCamp Tampa Bay. The doors open at 7:30 am and signups begin shortly thereafter. Sign-ups for sessions are from 7:30am to 9:00am on a first-come, first-served basis. Sessions start at 9:00am and end at 5:00pm with a break for lunch at noon. Lunch will be provided. Parking is free and across the street at the SunDome. There will be more information in an email we will send out to registrants just before the event.</span><br /><br />
 <!--Once again we will have a BarCamp Tampa event. It will be Tampa Bay’s largest tech event and will be held on the campus at the University of South Florida College of Business. There will be more announcements in the coming weeks and we expect an even larger attendance than last year so, register early and sign up for our mailing list.-->
 
 	<div class="title">
