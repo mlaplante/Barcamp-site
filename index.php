@@ -253,7 +253,7 @@ This is a day of learning for our attendees who represent all coding languages a
 			
 			<div class="one-third column">
 					<!-- begin example gallery -->
-					<a href="http://www.forexfactory.com/" target="_blank"><img src="images/2013_logos/Forex Factory web logo.png" class="scale-with-grid" alt="Forex" /></a>
+					<a href="http://www.forexfactory.com/" target="_blank"><img src="images/2013_logos/Forex-Factory-web-logo.png" class="scale-with-grid" alt="Forex" /></a>
 				
 				</div> <!-- end one-third column -->
 
@@ -612,6 +612,31 @@ This is a day of learning for our attendees who represent all coding languages a
 		<br class="clear" />
 		<br class="clear" />
 		</div> <!-- end portfolio -->
+		
+		<div class="portfolio">
+					
+						<div class="one-third column">
+							<!-- begin example gallery -->
+							<a href="http://headoflettucemedia.com/" target="_blank"><img src="images/2013_logos/hol.png" class="scale-with-grid" alt="" /></a>
+						
+						</div> <!-- end one-third column -->
+					
+					<div class="one-third column">
+							<!-- begin example gallery -->
+							<!--<a href="http://www.microsoft.com/" target="_blank"><img src="images/2013_logos/Microsoft web.jpg" class="scale-with-grid" alt="" /></a>-->
+						
+						</div> <!-- end one-third column -->
+					
+			    <div class="one-third column">
+							<!-- begin example gallery -->
+							<!--<a href="http://balanceengines.com/" target="_blank"><img src="images/2013_logos/Balance Engines.png" class="scale-with-grid" alt="" /></a>-->
+						
+						</div> <!-- end one-third column -->
+						
+		<br class="clear" />
+		<br class="clear" />
+		</div> <!-- end portfolio -->
+		
 	
 
 
