@@ -66,7 +66,7 @@
 			<div class="intro-line"></div>
             
             
-			<p class="tagline">A day by geeks, for geeks and about geeks on September 28th, 2013.</p>
+			<p class="tagline">A day by geeks, for geeks and about geeks on September 28th, 2013.<br />The address: 4202 E Fowler Ave, Tampa, FL 33620</p>
             
             <div class="social-intro">
 			<ul>
