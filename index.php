@@ -137,7 +137,7 @@
 		
 			<div class="sixteen columns" span style="margin-bottom:20px;">
 
-				<p style="font-size:24px;color:#0a97f9;">Join us once again this year where the University of South Florida's College of Business will welcome us to their campus for a day of learning, sharing, networking and geeky fun.</p>
+				<p style="font-size:24px;color:#0a97f9;">Join us once again this year where the University of South Florida's College of Business ( 4202 E Fowler Ave, Tampa, FL 33620 ) will welcome us to their campus for a day of learning, sharing, networking and geeky fun.</p>
             
 				<h2><span class="lines">About the Event</span></h2>
 
